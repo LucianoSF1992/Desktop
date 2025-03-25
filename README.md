@@ -1,4 +1,4 @@
-O usuário deseja desenvolver um backend para uma aplicação financeira usando PHP. A aplicação deve permitir que os usuários: 
+Backend para uma aplicação financeira usando PHP. A aplicação deve permitir que os usuários: 
 
 Criem relatórios financeiros 
 
